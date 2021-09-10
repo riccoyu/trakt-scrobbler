@@ -38,9 +38,3 @@ Head over to the [wiki](https://github.com/iamkroot/trakt-scrobbler/wiki) for fu
 
 *   Inspired from [TraktForVLC](https://github.com/XaF/TraktForVLC)
 *   [mpv-trakt-sync-daemon](https://github.com/stareInTheAir/mpv-trakt-sync-daemon) was a huge help in making the mpv monitor
-
-<!-- meaningless text change -->
-
-<!-- another nonsense modification -->
-
-<!-- i'd like signed commit always effective-->
