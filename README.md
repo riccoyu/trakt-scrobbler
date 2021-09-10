@@ -42,3 +42,5 @@ Head over to the [wiki](https://github.com/iamkroot/trakt-scrobbler/wiki) for fu
 <!-- meaningless text change -->
 
 <!-- another nonsense modification -->
+
+<!-- i'd like signed commit always effective-->
