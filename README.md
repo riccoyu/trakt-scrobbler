@@ -42,3 +42,4 @@ Head over to the [wiki](https://github.com/iamkroot/trakt-scrobbler/wiki) for fu
 <!-- vscode commit signing -->
 <!-- vscode turn off git enable commit signing -->
 <!-- git global unset commit.gpgsign -->
+<!-- it's vscode make sure commit signed -->
