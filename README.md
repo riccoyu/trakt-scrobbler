@@ -48,3 +48,4 @@ Head over to the [wiki](https://github.com/iamkroot/trakt-scrobbler/wiki) for fu
 <!-- turn off settings-security: enable gpg key signing for commit  -->
 <!-- turn on  settings-security: enable gpg key signing for commit  && sign off-->
 <!-- enabled && sign commit -->
+<!-- set gpg && key in gitkraken but not sign default -->
