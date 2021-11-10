@@ -46,3 +46,4 @@ Head over to the [wiki](https://github.com/iamkroot/trakt-scrobbler/wiki) for fu
 <!-- try sourcetree client app -->
 <!-- sourcetree commit options: sign off -->
 <!-- turn off settings-security: enable gpg key signing for commit  -->
+<!-- turn on  settings-security: enable gpg key signing for commit  && sign off-->
