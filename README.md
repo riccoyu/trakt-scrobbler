@@ -44,3 +44,4 @@ Head over to the [wiki](https://github.com/iamkroot/trakt-scrobbler/wiki) for fu
 <!-- git global unset commit.gpgsign -->
 <!-- it's vscode make sure commit signed -->
 <!-- try sourcetree client app -->
+<!-- sourcetree commit options: sign off -->
