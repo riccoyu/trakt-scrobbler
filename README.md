@@ -52,3 +52,4 @@ Head over to the [wiki](https://github.com/iamkroot/trakt-scrobbler/wiki) for fu
 <!-- make gitkraken sign commit in default -->
 <!-- gitkraken use local ssh agent -->
 <!-- edit again, pgp key passphrase stored -->
+<!-- another signed commit -->
