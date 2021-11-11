@@ -51,3 +51,4 @@ Head over to the [wiki](https://github.com/iamkroot/trakt-scrobbler/wiki) for fu
 <!-- set gpg && key in gitkraken but not sign default -->
 <!-- make gitkraken sign commit in default -->
 <!-- gitkraken use local ssh agent -->
+<!-- edit again, pgp key passphrase stored -->
