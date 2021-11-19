@@ -56,3 +56,4 @@ Head over to the [wiki](https://github.com/iamkroot/trakt-scrobbler/wiki) for fu
 <!-- mbp 2020 m1 -->
 <!-- vscode done, check gitkraken out -->
 <!-- gitkraken done, check iterm out -->
+<!-- iterm done, without setting GPG_TTY env var. check pycharm ce out -->
