@@ -54,3 +54,4 @@ Head over to the [wiki](https://github.com/iamkroot/trakt-scrobbler/wiki) for fu
 <!-- edit again, pgp key passphrase stored -->
 <!-- another signed commit -->
 <!-- mbp 2020 m1 -->
+<!-- vscode done, check gitkraken out -->
