@@ -55,3 +55,4 @@ Head over to the [wiki](https://github.com/iamkroot/trakt-scrobbler/wiki) for fu
 <!-- another signed commit -->
 <!-- mbp 2020 m1 -->
 <!-- vscode done, check gitkraken out -->
+<!-- gitkraken done, check iterm out -->
