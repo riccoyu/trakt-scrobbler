@@ -53,3 +53,4 @@ Head over to the [wiki](https://github.com/iamkroot/trakt-scrobbler/wiki) for fu
 <!-- gitkraken use local ssh agent -->
 <!-- edit again, pgp key passphrase stored -->
 <!-- another signed commit -->
+<!-- mbp 2020 m1 -->
